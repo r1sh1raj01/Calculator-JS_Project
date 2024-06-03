@@ -1,1 +1,3 @@
-# JavaScript-Projects
+# JavaScript-Project
+
+### Calculator

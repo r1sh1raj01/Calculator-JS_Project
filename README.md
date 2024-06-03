@@ -2,4 +2,4 @@
 
 ### Calculator
 <br><br>
-![Project Screenshot](Screenshots/Screenshot 2024-06-03 135741.png)
+![Project Screenshot](https://github.com/r1sh1raj01/Calculator-JS_Project/blob/main/Screenshot%202024-06-03%20135741.png)
